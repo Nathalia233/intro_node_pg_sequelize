@@ -1,0 +1,19 @@
+{
+  "name": "intro_node_pg_sequelize",
+  "version": "1.0.0",
+  "description": "Exercicio das aulas de Desenvolvimento BakEnd com Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nathalia233/intro_node_pg_sequelize.git"
+  },
+  "author": "Nathalia Alves",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nathalia233/intro_node_pg_sequelize/issues"
+  },
+  "homepage": "https://github.com/Nathalia233/intro_node_pg_sequelize#readme"
+}
